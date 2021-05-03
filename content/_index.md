@@ -1,5 +1,5 @@
 ---
-header_brand: "# SonoNeu"
+header_brand: "## SonoNeu"
 header_tagline_paragraph: "*Sonogenetics for easy cellular stimulation.*"
 header_button_cta:
   url: "#contact-form"
