@@ -1,5 +1,5 @@
 ---
-header_brand: "## SonoNeu"
+header_brand: SonoNeu
 header_tagline_paragraph: "*Sonogenetics for easy cellular stimulation.*"
 header_button_cta:
   url: "#contact-form"
@@ -24,9 +24,9 @@ Have we caught your attention? We appreciate your feedback at this early stage o
 
 # Prototype
 
-Here's what we've accomplished so far! 
+Here's what we've accomplished so far!
 
-![Prototype Work](images/prototype.jpg) <!-- https://www.pexels.com/search/product%20testing/ -->
+<!-- https://www.pexels.com/search/product%20testing/ -->
 
 Check out this sweet preview. Impressed much, are you?
 
