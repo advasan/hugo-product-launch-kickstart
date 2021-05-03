@@ -7,12 +7,12 @@ header_button_cta:
 header_button_more:
   url: "#the-future---today"
   title: Why this is awesome?
-teaser_image: ''
+teaser_image: "/neuron_0.jpeg"
 
 ---
 # The Future - Today!
 
-Existing techniques to stimulate cellular activity are invasive. SonoNeu's cellular stimulation system is based on sonogenetics, which uses a combination of ultrasound and ultrasound-sensitive proteins to modulate cellular activity. Interested in learning more? Check out some data from our [prototype](#prototype) and feel free to [contact form](#contact-form "Contact") so you can get in touch to ask for a **one-on-one** (or more :-)) showcase session.
+Existing techniques to stimulate cellular activity are invasive. SonoNeu's cellular stimulation system is based on sonogenetics, which uses a combination of ultrasound and ultrasound-sensitive proteins to modulate cellular activity. Interested in learning more? Check out some data from our [prototype](#prototype) and feel free to fill out our [contact form](#contact-form) so you can get in touch!
 
 ***
 
