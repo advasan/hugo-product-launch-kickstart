@@ -28,10 +28,6 @@ Here's what we've accomplished so far!
 
 ![](/headmounted_website.png)
 
-<!-- https://www.pexels.com/search/product%20testing/ -->
-
-Check out this sweet preview. Impressed much, are you?
-
 ***
 
 # Contact
