@@ -7,12 +7,12 @@ header_button_cta:
 header_button_more:
   url: "#the-future---today"
   title: Why this is awesome?
-teaser_image: "/neurons_gif.gif"
+teaser_image: ''
 
 ---
 # The Future - Today!
 
-Some introductory text to get you excited about what we are doing. For example, I could tell you what our [prototype](#prototype) can do and then link you to our [contact form](#contact-form) so you can get in touch to ask for a **one-on-one** (or more :-)) showcase session.
+Existing techniques to stimulate cellular activity are invasive. SonoNeu's cellular stimulation system is based on sonogenetics, which uses a combination of ultrasound and ultrasound-sensitive proteins to modulate cellular activity. Interested in learning more? Check out some data from our [prototype](#prototype) and feel free to [contact form](#contact-form) so you can get in touch to ask for a **one-on-one** (or more :-)) showcase session.
 
 ***
 
@@ -25,8 +25,6 @@ Have we caught your attention? We appreciate your feedback at this early stage o
 # Prototype
 
 Here's what we've accomplished so far!
-
-[headmounted.pdf](/headmounted.pdf "headmounted.pdf")
 
 <!-- https://www.pexels.com/search/product%20testing/ -->
 
@@ -50,6 +48,6 @@ We take data privacy very seriously, so we make sure not to store anything we do
 
 # Stay in touch
 
-Let's stay in touch. Sign up for our newsletter. Do not worry, we will not bother you with boring details. Expect nice & tight updates about once or twice every 3 months.
+Let's stay in touch. Sign up for our newsletter. Expect nice & tight updates about once or twice every 3 months.
 
 {{< newsletter_sign_up id="newsletter-sign-up-form" placeholder_email="Your Email" button_label="Sign up">}}
