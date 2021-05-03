@@ -5,7 +5,7 @@ header_button_cta:
   url: "#contact-form"
   title: Get in touch
 header_button_more:
-  url: "#the-future---today"
+  url: "#Sonogenetics---the-future-of-cellular-stimulation."
   title: Why this is awesome?
 teaser_image: "/neuron_0.jpeg"
 
