@@ -26,6 +26,8 @@ Have we caught your attention? We appreciate your feedback at this early stage o
 
 Here's what we've accomplished so far!
 
+[headmounted.pdf](/headmounted.pdf "headmounted.pdf")
+
 <!-- https://www.pexels.com/search/product%20testing/ -->
 
 Check out this sweet preview. Impressed much, are you?
