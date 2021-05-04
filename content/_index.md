@@ -8,6 +8,7 @@ header_button_more:
   url: "#Sonogenetics---the-future-of-cellular-stimulation."
   title: What is sonogenetics?
 teaser_image: "/neuron_0.jpeg"
+draft: true
 
 ---
 # Sonogenetics - the future of cellular stimulation.
