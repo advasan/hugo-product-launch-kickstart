@@ -1,7 +1,7 @@
 baseURL = "https://sononeu.com"
 defaultContentLanguage = "en"
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT", "404"]
-theme = "hugograyscale-master"
+theme = "hugo-product-launch"
 title = "Builders Of The Future, Inc."
 [markup.goldmark.renderer]
 hardWraps = true
