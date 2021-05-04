@@ -49,4 +49,4 @@ We take data privacy very seriously, so we make sure not to store anything we do
 
 Let's stay in touch. Sign up for our newsletter. Expect nice & tight updates about once or twice every 3 months.
 
-< newsletter_sign_up id="newsletter-sign-up-form" placeholder_email="Your Email" button_label="Sign up">
+< newsletter_sign_up id="newsletter-sign-up-form" placeholder_email="Your Email" button_label="Sign up">}}
