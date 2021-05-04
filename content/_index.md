@@ -19,6 +19,8 @@ Existing techniques to stimulate cellular activity are invasive. SonoNeu's cellu
 
 Have we caught your attention? We appreciate your feedback at this early stage of our product. Do not hesitate to contact us. In fact, if your interested, we'd love to give you a tour of the prototype we built.
 
+< contact_form id="contact-form" placeholder_name="Name" placeholder_email="Email Address" placeholder_message="Message" button_label="Send ✉️">
+
 ***
 
 # Prototype
@@ -47,4 +49,4 @@ We take data privacy very seriously, so we make sure not to store anything we do
 
 Let's stay in touch. Sign up for our newsletter. Expect nice & tight updates about once or twice every 3 months.
 
-{{< newsletter_sign_up id="newsletter-sign-up-form" placeholder_email="Your Email" button_label="Sign up">}}
+< newsletter_sign_up id="newsletter-sign-up-form" placeholder_email="Your Email" button_label="Sign up">
