@@ -6,7 +6,7 @@ header_button_cta:
   title: Get in touch
 header_button_more:
   url: "#Sonogenetics---the-future-of-cellular-stimulation."
-  title: Sonogenetics
+  title: What is sonogenetics?
 teaser_image: "/neuron_0.jpeg"
 
 ---
